@@ -1,0 +1,14 @@
+what is Husky?
+Husky is a tool which is help to run the scripts automatically before or after git actions like commit or pushing code
+before commit code husky will check is my code is formatted correctly using prettier  and run some tests and stop the commit if there is any problem 
+Advantages
+Husky saves the time by cathing the error early mistakes
+Helps to keep maintain the code clean working code
+Reducing the human errors while push and commit the code
+Block the commits if the code is does'nt pass the certain tasks
+Disadvantages
+It takes to much time for commit and pushing
+If the checks are written too strongly or too weakly then it block the developers for unnecessarily
+Husky run locally only if the developr disables it rules might not be enforce
+
+
